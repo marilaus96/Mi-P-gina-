@@ -1,0 +1,15 @@
+---
+title: "About This Website"
+---
+
+More about this website.
+
+<p align="center">
+Cuando justifica texto, se agrega espacio entre palabras para que los bordes de cada línea se alineen con ambos márgenes. La última línea del párrafo se alinea a la izquierda
+</p>
+
+[Facebook](https://www.facebook.com/bi.gu.528)
+
+[Twitter](https://twitter.com/laubigu710)
+
+![](pictures/yo.jpg){width=400px}

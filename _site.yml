@@ -1,0 +1,16 @@
+name: "my-website"
+navbar:
+  title: "Laura Segura"
+  right:
+    - text: "Principal"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Ejercicios"
+      href: index.html
+
+output: 
+ html_document:
+  theme: spacelab
+
+
